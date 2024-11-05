@@ -19,5 +19,5 @@ An interactive dashboard displaying real-time COVID-19 statistics globally and b
 2. The bar chart will update dynamically to show cases, deaths, and recoveries.
 
 ## Live Demo
-Check out the app here: [Live Demo](#)
+Check out the app here: [Live Demo]https://connectpalash92.github.io/covid-dashboard/(#)
 
